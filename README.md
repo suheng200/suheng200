@@ -1,8 +1,7 @@
 ### Hi there 👋
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=suheng200&show_icons=true)](https://github.com/suheng200/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=suheng200&show_icons=true&theme=darcula)](https://github.com/suheng200/github-readme-stats)
 
-\Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
