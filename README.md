@@ -6,5 +6,6 @@
 
 
 - 🌱 I’m currently learning Linux kernel.
-- 📫 suheng200@outlook.com or suheng200@gmail.com
+- 📫 suheng200@outlook.com
+- 📫 suheng200@gmail.com
 - 💬 我的微信公众号: 亿点拙见 （这个项目暂时还未开启，敬请等待~）
