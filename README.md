@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=suheng200&show_icons=true&theme=darcula)](https://github.com/suheng200/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=suheng200&show_icons=true&theme=vue)](https://github.com/suheng200/github-readme-stats)
 
 
 - 🔭 I’m currently working on ...
