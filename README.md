@@ -5,7 +5,8 @@
 
 
 
-- 🌱 I’m currently learning Linux kernel.
+- 🌱 I’m currently learning OS.
+- https://suheng.site
 - 📫 suheng200@outlook.com
 - 📫 suheng200@gmail.com
 - 💬 我的微信公众号: 亿点拙见 （这个项目暂时还未开启，敬请等待~）
